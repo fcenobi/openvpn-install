@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# update 
+#wget https://raw.githubusercontent.com/fcenobi/openvpn-install/master/install99-openvpn.sh 
 # Secure OpenVPN server installer for Debian, Ubuntu, CentOS, Amazon Linux 2, Fedora and Arch Linux
 # https://github.com/fcenobi/openvpn-install
 
